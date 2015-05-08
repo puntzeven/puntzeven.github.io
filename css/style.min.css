@@ -2357,6 +2357,10 @@ ul.icons-list li i {
     height: 49px;
     top: 50px;
   }
+
+  body{
+    padding-top: 0px;
+  }
 }
 
 @media (max-width : 767px) {
