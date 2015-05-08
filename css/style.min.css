@@ -2359,7 +2359,7 @@ ul.icons-list li i {
   }
 
   header{
-    padding-top: 500px;
+    top: 500px;
 
   }
 }
