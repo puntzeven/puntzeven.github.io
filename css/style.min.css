@@ -2357,10 +2357,6 @@ ul.icons-list li i {
     height: 49px;
     top: 50px;
   }
-
-  body{
-    padding-top: -40px;
-  }
 }
 
 @media (max-width : 767px) {
